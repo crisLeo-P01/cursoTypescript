@@ -4,7 +4,7 @@ La anotación de tipo permite especificar explícitamente
 el tipo de dato que se espera que la variable almacene. */
 let isDone = true; // Boolean
 // ------------------
-let age = 25; // Number
+const age = 25; // Number
 // ------------------
 let firstName = "John"; // string
 // ------------------

@@ -6,7 +6,7 @@ let isDone: boolean = true; // Boolean
 
 // ------------------
 
-let age: number = 25; // Number
+const age: number = 25; // Number
 
 // ------------------
 
