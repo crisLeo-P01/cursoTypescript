@@ -305,11 +305,11 @@ Marca con una `x` cuando completes cada ejercicio:
 - [✅] Ejercicio 4: Arrays y Métodos
 - [✅] Ejercicio 5: Funciones Avanzadas
 - [✅] Ejercicio 6: Desestructuración de Objetos
-- [ ] Ejercicio 7: Desestructuración de Arrays
-- [ ] Ejercicio 8: Imports y Exports
-- [ ] Ejercicio 9: Promesas
-- [ ] Ejercicio 10: Fetch API
-- [ ] Ejercicio 11: Async/Await
+- [✅] Ejercicio 7: Desestructuración de Arrays
+- [✅] Ejercicio 8: Imports y Exports
+- [✅] Ejercicio 9: Promesas
+- [✅] Ejercicio 10: Fetch API
+- [✅] Ejercicio 11: Async/Await
 - [ ] Ejercicio 12: Proyecto Integrador
 
 ---
